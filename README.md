@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafael
 #### I am Developer, Electronic Technician and Computer Analyst.
-![I am Developer, Electronic Technician and Computer Analyst.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Developer, Electronic Technician and Computer Analyst.](https://raflisboa.github.io/banner.png)
 
 This is my repository to projects that I'm involved.
 Please check out my Portuguese website in https://raflisboa.github.io/site/ .
