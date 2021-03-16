@@ -9,7 +9,7 @@ Please check out my Portuguese website in https://raflisboa.github.io/site/ .
 Skills: C, C#, Java, HTML5, Javascript, CSS, PHP, SQL, VBA, Batch Script, Shell Script
 
 - 🔭 I’m currently working on https://raflisboa.github.io/site/ 
-- 🌱 I’m currently learning Pyton, Java, Android Studio, React 
+- 🌱 I’m currently learning Python, Java, Android Studio, React 
 - 👯 I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me: rafael.lisboa0@gmail.com 
 - 😄 Pronouns: He/Him 
