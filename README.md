@@ -4,9 +4,9 @@
 
 This is my repository to projects that I'm involved.
 
-Please check out my Portuguese website in https://raflisboa.github.io/site/ .
+Please check out my Portuguese website in https://raflisboa.github.io/site/.
 
-Skills: C#, HTML5, Javascript, CSS, SQL, VBA, Batch Script, Shell Script
+Skills: C#, HTML5, Javascript, CSS, SQL, VBA, Batch Script, Shell Script, Cloud Computing, AWS.
 
 - 🔭 I’m currently working on http://raflisboa.herokuapp.com/ 
 - 🌱 I’m currently learning Python, NodeJS
