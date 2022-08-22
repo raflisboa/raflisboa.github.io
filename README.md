@@ -2,15 +2,15 @@
 #### I am Developer, Electronic Technician and System Analyst.
 ![I am Developer, Electronic Technician and System Analyst.](https://raflisboa.github.io/banner.png)
 
-This is my repository to projects that I'm involved.
+Welcome to my repository, with projects that I'm created and others related me.
 
 Please check out my Portuguese website at https://raflisboa.github.io/site/.
 I also have a Personal Curriculum website at https://raflisboa.github.io/cv/.
 
 Skills: C#, HTML5, Javascript, CSS, SQL, VBA, Batch Script, Shell Script, Cloud Computing, AWS.
 
-- 🔭 I’m currently working on http://raflisboa.herokuapp.com/ 
-- 🌱 I’m currently learning Python, NodeJS
+- 🔭 I’m currently working on Cloud Computing related projects
+- 🌱 I’m currently learning Python, Javascript, Software Testing Strategy
 - 👯 I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me: rafael.lisboa0@gmail.com 
 - 😄 Pronouns: He/Him 
