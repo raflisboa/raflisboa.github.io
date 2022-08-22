@@ -4,7 +4,8 @@
 
 This is my repository to projects that I'm involved.
 
-Please check out my Portuguese website in https://raflisboa.github.io/site/.
+Please check out my Portuguese website at https://raflisboa.github.io/site/.
+I also have a Personal Curriculum website at https://raflisboa.github.io/cv/.
 
 Skills: C#, HTML5, Javascript, CSS, SQL, VBA, Batch Script, Shell Script, Cloud Computing, AWS.
 
