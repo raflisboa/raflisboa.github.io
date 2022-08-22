@@ -21,6 +21,4 @@ Skills: C#, HTML5, Javascript, CSS, SQL, VBA, Batch Script, Shell Script, Cloud 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflisboa)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/raflisboa)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/raflisboa)
